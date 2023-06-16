@@ -20,7 +20,7 @@ def print_intro():
     """ + RESET
     
     author = GREEN + """Author: Mohammad Matin Kateb
-Email: matin.kateb.mk@gmail
+Email: matin.kateb.mk@gmail.com
 GitHub: MMatinKateb""" + RESET
 
     disclaimer = RED + """Disclaimer:
